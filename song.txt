@@ -2,10 +2,7 @@ nie było ciebie
 tyle lat
 poukładałam 
 sobie świat
-<<<<<<< HEAD
 
 revert 
 pierwsza edycja
 --------
-=======
->>>>>>> parent of cbf02dc (Reapply "again and again")
